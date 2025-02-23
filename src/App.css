@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background-image: url('https://t4.ftcdn.net/jpg/04/61/47/03/360_F_461470323_6TMQSkCCs9XQoTtyer8VCsFypxwRiDGU.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: #fff; 
+  display: flex;
+  flex-direction: column;
+}

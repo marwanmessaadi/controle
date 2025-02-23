@@ -1,0 +1,63 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background-image: url('https://t4.ftcdn.net/jpg/04/61/47/03/360_F_461470323_6TMQSkCCs9XQoTtyer8VCsFypxwRiDGU.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+}
+
+.mt-5 {
+  margin-top: 3rem !important;
+  background-image: url('https://t4.ftcdn.net/jpg/04/61/47/03/360_F_461470323_6TMQSkCCs9XQoTtyer8VCsFypxwRiDGU.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem !important;
+}
+
+.w-100 {
+  width: 100% !important;
+}
+
+.table-dark {
+  background-color: #343a40;
+  color: #fff;
+}
+
+.table-dark th {
+  color: #fff;
+}
+
+.btn-info {
+  background-color: #17a2b8;
+  border-color: #17a2b8;
+}
+
+.btn-info:hover {
+  background-color: #138496;
+  border-color: #117a8b;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.7); 
+  padding: 20px;
+  border-radius: 10px;
+  color: #fff; 
+}
